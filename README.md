@@ -10,7 +10,7 @@ A graphical application that demonstrates how a shopping cart works in react.
 
 HOW TO RUN:
 The software is hosted on github here https://github.com/cincimatti/shopping-cart.
-Demo site can be reached here https://cincimatti.github.io/shopping-cart/standalone.html.
+Demo site can be reached here https://cincimatti.github.io/shopping-cart/.
 
 ROADMAP:
 The next revision to show actual item instead of a random picture per item.
