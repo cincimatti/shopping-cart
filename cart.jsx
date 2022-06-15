@@ -213,7 +213,7 @@ const Products = (props) => {
             value={query}
             onChange={(event) => setQuery(event.target.value)}
           />
-          <button type="submit">ReStock Products</button>
+          <button type="submit">Restock Products</button>
         </form>
       </Row>
     </Container>
